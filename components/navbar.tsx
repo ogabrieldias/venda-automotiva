@@ -24,10 +24,10 @@ export function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-xl">A</span>
+              <span className="text-primary-foreground font-bold text-xl">V</span>
             </div>
             <span className="text-xl font-bold text-foreground">
-              Auto<span className="text-primary">Elite</span>
+              Venda<span className="text-primary">+</span>
             </span>
           </Link>
 

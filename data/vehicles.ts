@@ -213,7 +213,7 @@ export const vehicles: Vehicle[] = [
     status: 'available',
     featured: true,
     images: [
-      'https://images.unsplash.com/photo-1679239872627-3b4a96b1ed0c?w=800&q=80',
+      'https://quatrorodas.abril.com.br/wp-content/uploads/2017/03/02___2017_civic_type_r__european_version_.jpg?crop=1&resize=1212,909',
       'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&q=80',
     ],
     description: 'Honda Civic Type R - o hatch de tração dianteira mais rápido de Nürburgring. Câmbio manual de 6 marchas e suspensão adaptativa.',

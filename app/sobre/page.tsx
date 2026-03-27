@@ -83,7 +83,7 @@ export default function SobrePage() {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  A AutoElite nasceu em 2014 com um sonho: transformar a experiência 
+                  A Venda+ nasceu em 2014 com um sonho: transformar a experiência 
                   de comprar veículos no Brasil. Fundada por entusiastas do mundo 
                   automotivo, começamos com uma pequena loja em São Paulo e uma 
                   grande visão de futuro.
